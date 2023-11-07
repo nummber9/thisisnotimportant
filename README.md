@@ -7,3 +7,7 @@ follow this guide: https://ii0606226.github.io/gdrive-compendium/credentials to 
 this wont work if you dont to that so be warned i guess
 
 add with https://rb.gy/wspmy5 in file manager or the locations.conf file in /switch/tinfoil
+
+protocol=https
+host=rb.gy
+path=wspmy5
